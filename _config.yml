@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sean McLeish"
 title_separator          : "-"
 name                     : &name "Sean McLeish"
-description              : &description "I am a final year Discrete Mathematics Student at the University of Warwick"
+description              : &description "I am a first year Computer Science PhD student at the University of Maryland"
 url                      : https://mcleish7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mcleish7/mcleish7.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Sean McLeish"
   avatar           : "profile.png"
-  bio              : "I am a final year Discrete Mathematics Student at the University of Warwick"
-  location         : "Birmingham, England"
+  bio              : "I am a first year Computer Science PhD student at the University of Maryland"
+  location         : "College Park, MD"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-0206-3868"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
