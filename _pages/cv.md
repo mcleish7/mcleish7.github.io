@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* BSc in Discrete Mathematics, University of Warwick, 2023
+* First Class BSc (Hons) in Discrete Mathematics, University of Warwick, 2023
   * Department prize for the best overall graduating BSc student in Discrete Mathematics
 * Ph.D in Computer Science, University of Maryland, 2028 (expected)
 
