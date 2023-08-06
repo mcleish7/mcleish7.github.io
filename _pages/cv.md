@@ -11,26 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc in Discrete Mathematics, University of Warwick, 2023
+* Ph.D in Computer Science, University of Maryland, 2028 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2022: Summer Intern
+  * Goldman Sachs
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
+* Spring 2021: Spring Intern
+  * Goldman Sachs
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Python
+* Java
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
