@@ -18,14 +18,14 @@ tags:
   <figcaption style="text-align: center;">Individual Test 0-1 Accuracy Scores for ChatGPT</figcaption>
 </figure>
 
-# Individual F1
+# Individual F1 -- added just images/
 <figure>
   <img src="../images/CLRS-FIGURES/bar_chart_3_test.png" width="500" style="display: block; margin: 0 auto;">
   <figcaption style="text-align: center;">Individual Test F1 Scores for ChatGPT</figcaption>
 </figure>
 
 <figure>
-  <img src="CLRS-FIGURES/bar_chart_3_train.png" alt="Individual Train F1 Scores for ChatGPT" width="500" style="display: block; margin: 0 auto;">
+  <img src="images/CLRS-FIGURES/bar_chart_3_train.png" alt="Individual Train F1 Scores for ChatGPT" width="500" style="display: block; margin: 0 auto;">
   <figcaption style="text-align: center;">Individual Train F1 Scores for ChatGPT</figcaption>
 </figure>
 
