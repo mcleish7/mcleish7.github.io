@@ -9,7 +9,8 @@ tags:
 ---
 <p>
 All benchmark code is available here: <a href="https://github.com/mcleish7/CLRS4LM">CLRS4LM GitHub</a>
-<\p>
+</p>
+
 <h2>Individual Accuracy 2</h2>
 <p class="archive__item-excerpt" itemprop="Individual Train 0-1 Accuracy Scores for ChatGPT">
   <figure>
