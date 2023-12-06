@@ -8,6 +8,9 @@ tags:
   - category2
 ---
 # Individual Accuracy
+
+<p class="archive__item-excerpt" itemprop="description"><img src='/images/CLRS-FIGURES/Train_accuracy_2.png'></p>
+
 <figure>
   <img src="../images/CLRS-FIGURES/Train_accuracy_2.png" alt="Individual Train 0-1 Accuracy Scores for ChatGPT" width="500" style="display: block; margin: 0 auto;">
   <figcaption style="text-align: center;">Individual Train 0-1 Accuracy Scores for ChatGPT</figcaption>
