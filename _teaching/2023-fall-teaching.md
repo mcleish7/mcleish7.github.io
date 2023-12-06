@@ -1,7 +1,7 @@
 ---
 title: "CMSC 250 Discrete Structures TA"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Class"
 permalink: /teaching/2023-fall-teaching
 venue: "University of Maryland, Computer Science"
 date: 2023-08-28

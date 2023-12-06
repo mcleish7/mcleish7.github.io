@@ -20,7 +20,7 @@ tags:
 
 # Individual F1
 <figure>
-  <img src="CLRS-FIGURES/bar_chart_3_test.png" alt="Individual Test F1 Scores for ChatGPT" width="500" style="display: block; margin: 0 auto;">
+  <img src="../images/CLRS-FIGURES/bar_chart_3_test.png" width="500" style="display: block; margin: 0 auto;">
   <figcaption style="text-align: center;">Individual Test F1 Scores for ChatGPT</figcaption>
 </figure>
 
