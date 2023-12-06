@@ -8,39 +8,41 @@ tags:
   - Algorthmic-Reasoning
 ---
 # Individual Accuracy
-
+<h2>Individual Accuracy 2</h2>
 <p class="archive__item-excerpt" itemprop="Individual Train 0-1 Accuracy Scores for ChatGPT">
   <figure>
-    <img src='/images/CLRS-FIGURES/Train_accuracy_2.png' width="500" style="display: block; margin: 0 auto;">
+    <img src='/images/CLRS-FIGURES/Train_accuracy_2.png' width="500" style="text-align: center;">
     <figcaption style="text-align: center;">Individual Train 0-1 Accuracy Scores for ChatGPT</figcaption>
   </figure>
 </p>
 <p class="archive__item-excerpt" itemprop="Individual Test 0-1 Accuracy Scores for ChatGPT">
   <figure>
-    <img src='/images/CLRS-FIGURES/Test_accuracy_2.png' width="500" style="display: block; margin: 0 auto;">
+    <img src='/images/CLRS-FIGURES/Test_accuracy_2.png' width="500" style="text-align: center;">
     <figcaption style="text-align: center;">Individual Test 0-1 Accuracy Scores for ChatGPT</figcaption>
   </figure>
 </p>
 
 # Individual F1
+<h2>Individual F1 2</h2>
 <p class="archive__item-excerpt" itemprop="Individual Train F1 Scores for ChatGPT">  
   <figure>
-    <img src='/images/CLRS-FIGURES/bar_chart_3_train.png' width="500" style="display: block; margin: 0 auto;">
+    <img src='/images/CLRS-FIGURES/bar_chart_3_train.png' width="500" style="text-align: center;">
     <figcaption style="text-align: center;">Individual Train F1 Scores for ChatGPT</figcaption>
   </figure>
 </p>
 
 <p class="archive__item-excerpt" itemprop="Individual Test F1 Scores for ChatGPT">
   <figure>
-    <img src='/images/CLRS-FIGURES/bar_chart_3_test.png' width="500" style="display: block; margin: 0 auto;">
+    <img src='/images/CLRS-FIGURES/bar_chart_3_test.png' width="500" style="text-align: center;">
     <figcaption style="text-align: center;">Individual Test F1 Scores for ChatGPT</figcaption>
   </figure>
 </p>
 
 # Comparison F1
+<h2>Comparison F1 2</h2>
 <p class="archive__item-excerpt" itemprop="Comparison of Test F1 Scores to ChatGPT"> 
   <figure>
-    <img src='/images/CLRS-FIGURES/Test_compare_F1.png' width="500" style="display: block; margin: 0 auto;">
+    <img src='/images/CLRS-FIGURES/Test_compare_F1.png' width="500" style="text-align: center;">
     <figcaption style="text-align: center;">Comparison of Test F1 Scores to ChatGPT</figcaption>
   </figure>
 </p>
