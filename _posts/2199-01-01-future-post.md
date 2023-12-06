@@ -1,19 +1,36 @@
 ---
 title: 'Is ChatGPT a Generalist Algorithmic Learner?'
-date: 2023-12-05
+date: 2023-12-07
 permalink: /posts/CLRS4LM/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - LM
+  - ChatGPT
+  - Algorthmic-Reasoning
 ---
 # Individual Accuracy
 
-<p class="archive__item-excerpt" itemprop="Individual Train 0-1 Accuracy Scores for ChatGPTn"><img src='/images/CLRS-FIGURES/Train_accuracy_2.png' width="500" style="display: block; margin: 0 auto;"></p>
-<p class="archive__item-excerpt" itemprop="Individual Test 0-1 Accuracy Scores for ChatGPT"><img src='/images/CLRS-FIGURES/Test_accuracy_2.png' width="500" style="display: block; margin: 0 auto;"></p>
-<p class="archive__item-excerpt" itemprop="Individual Train F1 Scores for ChatGPT"><img src='/images/CLRS-FIGURES/bar_chart_3_train.png' width="500" style="display: block; margin: 0 auto;"></p>
-<p class="archive__item-excerpt" itemprop="Individual Test F1 Scores for ChatGPT"><img src='/images/CLRS-FIGURES/bar_chart_3_test.png' width="500" style="display: block; margin: 0 auto;"></p>
+<p class="archive__item-excerpt" itemprop="Individual Train 0-1 Accuracy Scores for ChatGPT"><  <figure>
+    <img src='/images/CLRS-FIGURES/Train_accuracy_2.png' width="500" style="display: block; margin: 0 auto;">
+    <figcaption style="text-align: center;">Individual Train 0-1 Accuracy Scores for ChatGPT</figcaption>
+  </figure>
+<p class="archive__item-excerpt" itemprop="Individual Test 0-1 Accuracy Scores for ChatGPT">  <figure>
+    <img src='/images/CLRS-FIGURES/Test_accuracy_2.png' width="500" style="display: block; margin: 0 auto;">
+    <figcaption style="text-align: center;">Individual Test 0-1 Accuracy Scores for ChatGPT</figcaption>
+  </figure>
 
+# Individual F1
+<p class="archive__item-excerpt" itemprop="Individual Train F1 Scores for ChatGPT">  <figure>
+    <img src='/images/CLRS-FIGURES/bar_chart_3_train.png' width="500" style="display: block; margin: 0 auto;">
+    <figcaption style="text-align: center;">Individual Train F1 Scores for ChatGPT</figcaption>
+  </figure>
+<p class="archive__item-excerpt" itemprop="Individual Test F1 Scores for ChatGPT">
+  <figure>
+    <img src='/images/CLRS-FIGURES/bar_chart_3_test.png' width="500" style="display: block; margin: 0 auto;">
+    <figcaption style="text-align: center;">Individual Test F1 Scores for ChatGPT</figcaption>
+  </figure>
+</p>
+
+# Comparison F1
 <p class="archive__item-excerpt" itemprop="Comparison of Test F1 Scores to ChatGPT"> 
   <figure>
     <img src='/images/CLRS-FIGURES/Test_compare_F1.png' width="500" style="display: block; margin: 0 auto;">
