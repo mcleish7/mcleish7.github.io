@@ -12,8 +12,8 @@ All benchmark code is available here: <a href="https://github.com/mcleish7/CLRS4
 </p>
 
 <h2>Individual Accuracy 2</h2>
-<p class="archive__item-excerpt" itemprop="Individual Train 0-1 Accuracy Scores for ChatGPT">
-  <figure>
+<p itemprop="Individual Train 0-1 Accuracy Scores for ChatGPT">
+  <figure style="text-align: center;">
     <img src='/images/CLRS-FIGURES/Train_accuracy_2.png' width="100">
     <figcaption style="text-align: center;">Individual Train 0-1 Accuracy Scores for ChatGPT</figcaption>
   </figure>
