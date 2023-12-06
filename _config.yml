@@ -84,9 +84,9 @@ author:
   avatar           : "profile.jpeg"
   bio              : "I am a first year Computer Science PhD student at the University of Maryland"
   location         : "College Park, MD"
-  employer         :
+  employer         : University of Maryland
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?user=kFzOTY8AAAAJ&hl=en
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/sean-m-mcleish/
   orcid            : "http://orcid.org/0000-0003-0206-3868"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : SeanMcleish
   vine             :
   weibo            :
   xing             :
