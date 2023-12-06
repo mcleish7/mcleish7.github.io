@@ -9,12 +9,12 @@ tags:
 ---
 # Individual Accuracy
 <figure>
-  <img src="mcleish7.github.io/_posts/CLRS-FIGURES/Train_accuracy_2.png" alt="Individual Train 0-1 Accuracy Scores for ChatGPT" width="500" style="display: block; margin: 0 auto;">
+  <img src="mcleish7.github.io/images/CLRS-FIGURES/Train_accuracy_2.png" alt="Individual Train 0-1 Accuracy Scores for ChatGPT" width="500" style="display: block; margin: 0 auto;">
   <figcaption style="text-align: center;">Individual Train 0-1 Accuracy Scores for ChatGPT</figcaption>
 </figure>
 
 <figure>
-  <img src="_posts/CLRS-FIGURES/Test_accuracy_2.png" alt="Individual Test 0-1 Accuracy Scores for ChatGPT" width="500" style="display: block; margin: 0 auto;">
+  <img src="../images/CLRS-FIGURES/Test_accuracy_2.png" alt="Individual Test 0-1 Accuracy Scores for ChatGPT" width="500" style="display: block; margin: 0 auto;">
   <figcaption style="text-align: center;">Individual Test 0-1 Accuracy Scores for ChatGPT</figcaption>
 </figure>
 
