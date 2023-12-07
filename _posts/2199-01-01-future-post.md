@@ -7,7 +7,7 @@ tags:
   - ChatGPT
   - Algorthmic-Reasoning
 ---
----
+<html>
 <h3>Sean McLeish, Avi Schwarzschild, Tom Goldstein</h3>
 <p>All benchmark code is available here: <a href="https://github.com/mcleish7/CLRS4LM">CLRS4LM GitHub</a>.</p>
 <p>This is an extension of our arXiv paper, available here:  <a href="https://github.com/mcleish7/CLRS4LM">arXiv</a>. Here we display accuracy on the CLRS size 16 training data and provide more discussion.</p>
@@ -50,3 +50,4 @@ tags:
     <figcaption style="text-align: center; font-size: 16px;">Comparison of Test F1 Scores to ChatGPT</figcaption>
   </figure>
 </p>
+</html>
