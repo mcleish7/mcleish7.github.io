@@ -15,6 +15,8 @@ tags:
 
 
 <h2>Individual Accuracy</h2>
+<p>We do not necessarily see a pattern between the testing and training accuracies. This could be because ChatGPT mostly relies on Python code in these problems, so the difference between test and train data is less noticable than in the GNN case. As any Python code which can correctly answer a train problem can also answer a test problem and vice versa.</p>
+
 <p itemprop="Individual Train 0-1 Accuracy Scores for ChatGPT">
   <figure style="text-align: center;">
     <img src='/images/CLRS-FIGURES/Train_accuracy_2.png' width="100">
@@ -29,6 +31,8 @@ tags:
 </p>
 
 <h2>Individual F1</h2>
+<p>Again, we do not necessarily see a pattern between the testing and training F1 scores.</p>
+
 <p class="archive__item-excerpt" itemprop="Individual Train F1 Scores for ChatGPT">  
   <figure>
     <img src='/images/CLRS-FIGURES/bar_chart_3_train.png' width="300" style="text-align: center;">
@@ -44,10 +48,12 @@ tags:
 </p>
 
 <h2>Comparison F1</h2>
+<p>Here we compare the test F1 scores for ChatGPT and other GNN models on the CLRS benchmark problems.</p>
 <p class="archive__item-excerpt" itemprop="Comparison of Test F1 Scores to ChatGPT"> 
   <figure>
     <img src='/images/CLRS-FIGURES/Test_compare_F1.png' width="500" style="text-align: center;">
     <figcaption style="text-align: center; font-size: 16px;">Comparison of Test F1 Scores to ChatGPT</figcaption>
   </figure>
 </p>
+<p>Thanks for reading, please look at the <a href="https://github.com/mcleish7/CLRS4LM">GitHub</a> and cite out <a href="https://github.com/mcleish7/CLRS4LM">arXiv Paper</a>.</p>
 </html>
