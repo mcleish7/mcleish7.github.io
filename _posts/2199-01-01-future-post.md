@@ -61,9 +61,9 @@ tags:
 <code>
 <h2>Geometry problems - Jarvis' march</h2>
 <h3>System Prompt:</h3>
-<p>You are a helpful assistant for solving and explaining classical coding problems.</p>
+<p style="font-size:18px">You are a helpful assistant for solving and explaining classical coding problems.</p>
 <h3>Context:</h3>
-<p>Perform the Jarvis March Algorithm on these points, X coordinates [1.2194, -1.11406, 0.38929, -1.73849, -0.31843, 1.22709, 0.43665, 0.7779, -1.62778, -0.26118, -0.24323, -0.66371, 0.81454, -1.17166, -0.03785, 1.07014], Y coordinates [1.498, -1.25286, 0.34116, 0.53362, -0.23869, 0.35766, -1.86391, 0.53266, -0.29587, 1.28856, -1.34246, -1.10064, 1.74479, -0.59935, 0.48395, 1.55081], return the indices of the points in the hull, sorting these indices in ascending order when printing, indexing from 0. If you write python code, the first code block should only be you defining the two arrays. I cannot run code, you should show as much working as possible, at least the first step of working by hand, and run until the process is complete. The last line of your output should be the solution to the problem, if this is from running code, you should restate the output in our conversation.</p>
+<p style="font-size:16px">Perform the Jarvis March Algorithm on these points, X coordinates [1.2194, -1.11406, 0.38929, -1.73849, -0.31843, 1.22709, 0.43665, 0.7779, -1.62778, -0.26118, -0.24323, -0.66371, 0.81454, -1.17166, -0.03785, 1.07014], Y coordinates [1.498, -1.25286, 0.34116, 0.53362, -0.23869, 0.35766, -1.86391, 0.53266, -0.29587, 1.28856, -1.34246, -1.10064, 1.74479, -0.59935, 0.48395, 1.55081], return the indices of the points in the hull, sorting these indices in ascending order when printing, indexing from 0. If you write python code, the first code block should only be you defining the two arrays. I cannot run code, you should show as much working as possible, at least the first step of working by hand, and run until the process is complete. The last line of your output should be the solution to the problem, if this is from running code, you should restate the output in our conversation.</p>
 </code>
 
 </html>
