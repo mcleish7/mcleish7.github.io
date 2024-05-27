@@ -17,4 +17,5 @@ The poor performance of transformers on arithmetic tasks seems to stem in large 
 With positions resolved, we can study the logical extrapolation ability of transformers. Can they solve arithmetic problems that are larger and more complex than those in their training data? We find that training on only 20 digit numbers with a single GPU for one day, we can reach state-of-the-art performance, achieving up to 99% accuracy on 100 digit addition problems. Finally, we show that these gains in numeracy also unlock improvements on other multi-step reasoning tasks including sorting and multiplication.
 
 [Download paper here](https://arxiv.org/)
+
 [GitHub Code](https://github.com/mcleish7/arithmetic)
