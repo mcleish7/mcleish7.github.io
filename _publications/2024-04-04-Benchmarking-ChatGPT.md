@@ -1,7 +1,7 @@
 ---
 title: "Benchmarking ChatGPT on Algorithmic Reasoning"
 collection: publications
-permalink: /publications/2024-04-04-Benchmarking2
+permalink: /publications/2024-04-04-Benchmarking-ChatGPT
 excerpt: 'We evaluate ChatGPT's ability to solve algorithm problems from the CLRS benchmark suite that is designed for GNNs. The benchmark requires the use of a specified classical algorithm to solve a given problem. We find that ChatGPT outperforms specialist GNN models, using Python to successfully solve these problems. This raises new points in the discussion about learning algorithms with neural networks and how we think about what out of distribution testing looks like with web scale training data.'
 date: 2024-04-04
 venue: 'arXiv'
