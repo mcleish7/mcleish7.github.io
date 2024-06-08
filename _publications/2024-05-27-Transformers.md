@@ -8,8 +8,8 @@ With positions resolved, we can study the logical extrapolation ability of trans
 date: 2024-05-27
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2405.17399'
-citation: 'Sean Michael McLeish, Arpit Bansal, Alex Stein, Neel Jain, John Kirchenbauer, Brian R. Bartoldson, Bhavya Kailkhura, Abhinav Bhatele, Jonas Geiping, Avi Schwarzschild and Tom Goldstein, McLeish (2024). &quot;Transformers Can Do Arithmetic with the Right Embeddings.&quot; <i>arXiv preprint arXiv:2405.17399</i>.'
-authors: 'Sean Michael McLeish^*, Arpit Bansal^*, Alex Stein, Neel Jain, John Kirchenbauer, Brian R. Bartoldson, Bhavya Kailkhura, Abhinav Bhatele, Jonas Geiping, Avi Schwarzschild and Tom Goldstein'
+citation: 'Sean McLeish, Arpit Bansal, Alex Stein, Neel Jain, John Kirchenbauer, Brian R. Bartoldson, Bhavya Kailkhura, Abhinav Bhatele, Jonas Geiping, Avi Schwarzschild and Tom Goldstein, McLeish (2024). &quot;Transformers Can Do Arithmetic with the Right Embeddings.&quot; <i>arXiv preprint arXiv:2405.17399</i>.'
+authors: 'Sean McLeish*, Arpit Bansal*, Alex Stein, Neel Jain, John Kirchenbauer, Brian R. Bartoldson, Bhavya Kailkhura, Abhinav Bhatele, Jonas Geiping, Avi Schwarzschild and Tom Goldstein'
 ---
 Joint work with Arpit Bansal.
 
