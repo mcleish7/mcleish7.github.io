@@ -6,7 +6,7 @@ excerpt: 'The poor performance of transformers on arithmetic tasks seems to stem
 
 With positions resolved, we can study the logical extrapolation ability of transformers. Can they solve arithmetic problems that are larger and more complex than those in their training data? We find that training on only 20 digit numbers with a single GPU for one day, we can reach state-of-the-art performance, achieving up to 99% accuracy on 100 digit addition problems. Finally, we show that these gains in numeracy also unlock improvements on other multi-step reasoning tasks including sorting and multiplication.'
 date: 2024-05-27
-venue: 'arXiv'
+venue: 'NeurIPS (2024)'
 paperurl: 'https://arxiv.org/abs/2405.17399'
 citation: 'Sean McLeish, Arpit Bansal, Alex Stein, Neel Jain, John Kirchenbauer, Brian R. Bartoldson, Bhavya Kailkhura, Abhinav Bhatele, Jonas Geiping, Avi Schwarzschild and Tom Goldstein, McLeish (2024). &quot;Transformers Can Do Arithmetic with the Right Embeddings.&quot; <i>arXiv preprint arXiv:2405.17399</i>.'
 authors: '<b>Sean McLeish</b>*, Arpit Bansal*, Alex Stein, Neel Jain, John Kirchenbauer, Brian R. Bartoldson, Bhavya Kailkhura, Abhinav Bhatele, Jonas Geiping, Avi Schwarzschild and Tom Goldstein'
