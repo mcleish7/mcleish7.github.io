@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am Sean McLeish, a second year Computer Science PhD student at the University of Maryland.
 I graduated from the University of Warwick in 2023 with a first class BSc (Hons) in Discrete Mathematics.
-My research currently focuses on graph problems and algorithmic reasoning.
+My research currently focuses on algorithmic reasoning and language modelling.
 
 Interests
 ====
