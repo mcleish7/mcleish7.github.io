@@ -12,7 +12,30 @@ __Gemstones: A Model Suite for Multi-Faceted Scaling Laws__ \\
 _NeurIPS 2025_ \\
 [paper](https://arxiv.org/abs/2502.06857) | [code](https://github.com/mcleish7/gemstone-scaling-laws)
 
+__Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach__ \\
+Jonas Geiping, <u>Sean McLeish</u>, Neel Jain, John Kirchenbauer, Siddharth Singh, Brian Bartoldson, Bhavya Kailkhura, Abhinav Bhatele and Tom Goldstein \\
+_NeurIPS 2025_ \\
+[paper](https://arxiv.org/abs/2502.05171) | [code](https://github.com/seal-rg/recurrent-pretraining)
 
+__The CLRS-Text Algorithmic Reasoning Language Benchmark__ \\
+Larisa Markeeva*, <u>Sean McLeish</u>*, Borja Ibarz*, Wilfried Bounsi, Olga Kozlova, Alex Vitvitskyi, Charles Blundell, Tom Goldstein, Avi Schwarzschild and Petar Veličković \\
+_preprint_ \\
+[paper](https://arxiv.org/abs/2406.04229) | [code](https://github.com/google-deepmind/clrs/tree/master/clrs/_src/clrs_text)
+
+__Transformers Can Do Arithmetic with the Right Embeddings__ \\
+<u>Sean McLeish</u>*, Arpit Bansal*, Alex Stein, Neel Jain, John Kirchenbauer, Brian R. Bartoldson, Bhavya Kailkhura, Abhinav Bhatele, Jonas Geiping, Avi Schwarzschild and Tom Goldstein \\
+_NeurIPS 2024_ \\
+[paper](https://arxiv.org/abs/2405.17399) | [code](https://github.com/mcleish7/arithmetic)
+
+__Benchmarking ChatGPT on Algorithmic Reasoning__ \\
+<u>Sean McLeish</u>, Avi Schwarzschild and Tom Goldstein \\
+_Preprint_ \\
+[paper](https://arxiv.org/abs/2404.03441) | [code](https://github.com/mcleish7/CLRS4LM)
+
+__[Re] End-to-End Algorithm Synthesis with Recurrent Networks: Logical Extrapolation Without Overthinking__ \\
+<u>Sean McLeish</u> and Long Tran-Thanh \\
+_ReScience Volume 9 Issue 2, Joural to Conference Track NeurIPS_ \\
+[paper](https://openreview.net/pdf?id=WaZB4pUVTi) | [code](https://github.com/mcleish7/MLRC-deep-thinking)
 
 ## Experience
 - **Summer 2025**, Applied Research Intern, Capital One
