@@ -19,7 +19,7 @@ _NeurIPS 2025_ \\
 
 __The CLRS-Text Algorithmic Reasoning Language Benchmark__ \\
 Larisa Markeeva\*, <b>Sean McLeish</b>\*, Borja Ibarz\*, Wilfried Bounsi, Olga Kozlova, Alex Vitvitskyi, Charles Blundell, Tom Goldstein, Avi Schwarzschild and Petar Veličković \\
-_preprint_ \\
+_ICML DMLR Workshop 2024_ \\
 [paper](https://arxiv.org/abs/2406.04229) | [code](https://github.com/google-deepmind/clrs/tree/master/clrs/_src/clrs_text)
 
 __Transformers Can Do Arithmetic with the Right Embeddings__ \\
@@ -27,10 +27,10 @@ __Transformers Can Do Arithmetic with the Right Embeddings__ \\
 _NeurIPS 2024_ \\
 [paper](https://arxiv.org/abs/2405.17399) | [code](https://github.com/mcleish7/arithmetic)
 
-__Benchmarking ChatGPT on Algorithmic Reasoning__ \\
+<!-- __Benchmarking ChatGPT on Algorithmic Reasoning__ \\
 <b>Sean McLeish</b>, Avi Schwarzschild and Tom Goldstein \\
 _Preprint_ \\
-[paper](https://arxiv.org/abs/2404.03441) | [code](https://github.com/mcleish7/CLRS4LM)
+[paper](https://arxiv.org/abs/2404.03441) | [code](https://github.com/mcleish7/CLRS4LM) -->
 
 __[Re] End-to-End Algorithm Synthesis with Recurrent Networks: Logical Extrapolation Without Overthinking__ \\
 <b>Sean McLeish</b> and Long Tran-Thanh \\
