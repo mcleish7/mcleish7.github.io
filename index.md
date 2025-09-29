@@ -41,7 +41,7 @@ _ReScience Volume 9 Issue 2, Joural to Conference Track NeurIPS_ \\
 - **Summer 2025**, Applied Research Intern, Capital One
 - **Spring 2025**, Spring into Quant Finance, G Research
 - **Summer 2022**, Summer Intern, Goldman Sachs
-- **Spring 2021**, Spring Inter, Goldman Sachs
+- **Spring 2021**, Spring Intern, Goldman Sachs
 
 ## Achievements 
 - Department prize for the best overall graduating BSc student in Discrete Mathematics (2023)
