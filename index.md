@@ -15,7 +15,7 @@ _NeurIPS 2025_ \\
 __Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach__ \\
 Jonas Geiping, <b>Sean McLeish</b>, Neel Jain, John Kirchenbauer, Siddharth Singh, Brian Bartoldson, Bhavya Kailkhura, Abhinav Bhatele and Tom Goldstein \\
 _NeurIPS 2025_ \\
-[paper](https://arxiv.org/abs/2502.05171) | [code](https://github.com/seal-rg/recurrent-pretraining) | [Hugging Face](hhttps://huggingface.co/collections/tomg-group-umd/recurrent-models-6793c4ae556d3843c5496572)
+[paper](https://arxiv.org/abs/2502.05171) | [code](https://github.com/seal-rg/recurrent-pretraining) | [Hugging Face](https://huggingface.co/collections/tomg-group-umd/recurrent-models-6793c4ae556d3843c5496572)
 
 __The CLRS-Text Algorithmic Reasoning Language Benchmark__ \\
 Larisa Markeeva\*, <b>Sean McLeish</b>\*, Borja Ibarz\*, Wilfried Bounsi, Olga Kozlova, Alex Vitvitskyi, Charles Blundell, Tom Goldstein, Avi Schwarzschild and Petar Veličković \\
