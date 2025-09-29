@@ -44,6 +44,7 @@ _ReScience Volume 9 Issue 2, Journal to Conference Track NeurIPS 2024_ \\
 - **Spring 2021**, Spring Intern, Goldman Sachs
 
 ## Achievements 
+- University of Maryland Dean’s Fellowship (2023)
 - Department prize for the best overall graduating BSc student in Discrete Mathematics (2023)
 - UKMT Gold Award Winner (2019)
 
