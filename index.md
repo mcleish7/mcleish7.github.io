@@ -10,17 +10,17 @@ I am Sean McLeish, a third year Computer Science PhD student at the University o
 __Gemstones: A Model Suite for Multi-Faceted Scaling Laws__ \\
 <b>Sean McLeish</b>, John Kirchenbauer, David Yu Miller, Siddharth Singh, Abhinav Bhatele, Micah Goldblum, Ashwinee Panda and Tom Goldstein \\
 _NeurIPS 2025_ \\
-[paper](https://arxiv.org/abs/2502.06857) | [code](https://github.com/mcleish7/gemstone-scaling-laws)
+[paper](https://arxiv.org/abs/2502.06857) | [code](https://github.com/mcleish7/gemstone-scaling-laws) | [Hugging Face](https://huggingface.co/collections/tomg-group-umd/gemstone-models-679408ee3f19f1d4d00e8b10)
 
 __Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach__ \\
 Jonas Geiping, <b>Sean McLeish</b>, Neel Jain, John Kirchenbauer, Siddharth Singh, Brian Bartoldson, Bhavya Kailkhura, Abhinav Bhatele and Tom Goldstein \\
 _NeurIPS 2025_ \\
-[paper](https://arxiv.org/abs/2502.05171) | [code](https://github.com/seal-rg/recurrent-pretraining)
+[paper](https://arxiv.org/abs/2502.05171) | [code](https://github.com/seal-rg/recurrent-pretraining) | [Hugging Face](hhttps://huggingface.co/collections/tomg-group-umd/recurrent-models-6793c4ae556d3843c5496572)
 
 __The CLRS-Text Algorithmic Reasoning Language Benchmark__ \\
 Larisa Markeeva\*, <b>Sean McLeish</b>\*, Borja Ibarz\*, Wilfried Bounsi, Olga Kozlova, Alex Vitvitskyi, Charles Blundell, Tom Goldstein, Avi Schwarzschild and Petar Veličković \\
 _ICML DMLR Workshop 2024_ \\
-[paper](https://arxiv.org/abs/2406.04229) | [code](https://github.com/google-deepmind/clrs/tree/master/clrs/_src/clrs_text)
+[paper](https://arxiv.org/abs/2406.04229) | [code](https://github.com/google-deepmind/clrs/tree/master/clrs/_src/clrs_text) | [Hugging Face](https://huggingface.co/collections/tomg-group-umd/clrs-text-668ea13343dab55d6efa1a30)
 
 __Transformers Can Do Arithmetic with the Right Embeddings__ \\
 <b>Sean McLeish</b>\*, Arpit Bansal\*, Alex Stein, Neel Jain, John Kirchenbauer, Brian R. Bartoldson, Bhavya Kailkhura, Abhinav Bhatele, Jonas Geiping, Avi Schwarzschild and Tom Goldstein \\
