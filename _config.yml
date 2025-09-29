@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Sean McLeish"
   avatar           : "profile.jpeg"
-  bio              : "I am a second year Computer Science PhD student at the University of Maryland."
-  location         : "College Park, MD"
+  bio              : "I am a third year Computer Science PhD student at the University of Maryland."
+  # location         : "College Park, MD"
   employer         : University of Maryland
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?user=kFzOTY8AAAAJ&hl=en
