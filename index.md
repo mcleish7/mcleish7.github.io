@@ -34,7 +34,7 @@ _Preprint_ \\
 
 __[Re] End-to-End Algorithm Synthesis with Recurrent Networks: Logical Extrapolation Without Overthinking__ \\
 <b>Sean McLeish</b> and Long Tran-Thanh \\
-_ReScience Volume 9 Issue 2, Journal to Conference Track NeurIPS 2024_ \\
+_ReScience Volume 9 Issue 2, Journal to Conference Track NeurIPS 2023_ \\
 [paper](https://openreview.net/pdf?id=WaZB4pUVTi) | [code](https://github.com/mcleish7/MLRC-deep-thinking)
 
 ## Experience
