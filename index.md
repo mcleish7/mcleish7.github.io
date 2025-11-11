@@ -7,6 +7,11 @@ I am Sean McLeish, a third year Computer Science PhD student at the University o
 
 ## Selected Publications \[[Full List](https://scholar.google.com/citations?user=kFzOTY8AAAAJ&hl=en)\]
 
+__Teaching Pretrained Language Models to Think Deeper with Retrofitted Recurrence__ \\
+<b>Sean McLeish</b>, Ang Li, John Kirchenbauer, Dayal Singh Kalra, Brian R. Bartoldson, Bhavya Kailkhura, Avi Schwarzschild, Jonas Geiping, Tom Goldstein and Micah Goldblum \\
+_Preprint_ \\
+[paper](https://arxiv.org/abs/2511.07384) | [code](https://github.com/mcleish7/retrofitting-recurrence) | [Hugging Face](https://huggingface.co/collections/tomg-group-umd/retrofitting-recurrence)
+
 __Gemstones: A Model Suite for Multi-Faceted Scaling Laws__ \\
 <b>Sean McLeish</b>, John Kirchenbauer, David Yu Miller, Siddharth Singh, Abhinav Bhatele, Micah Goldblum, Ashwinee Panda and Tom Goldstein \\
 _NeurIPS 2025_ \\
