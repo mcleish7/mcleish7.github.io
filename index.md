@@ -24,7 +24,7 @@ _NeurIPS 2025_ \\
 
 __The CLRS-Text Algorithmic Reasoning Language Benchmark__ \\
 Larisa Markeeva\*, <b>Sean McLeish</b>\*, Borja Ibarz\*, Wilfried Bounsi, Olga Kozlova, Alex Vitvitskyi, Charles Blundell, Tom Goldstein, Avi Schwarzschild and Petar Veličković \\
-_ICML DMLR Workshop 2024_ \\
+_Journal of Data-centric Machine Learning Research (DMLR)_ \\
 [paper](https://arxiv.org/abs/2406.04229) | [code](https://github.com/google-deepmind/clrs/tree/master/clrs/_src/clrs_text) | [Hugging Face](https://huggingface.co/collections/tomg-group-umd/clrs-text-668ea13343dab55d6efa1a30)
 
 __Transformers Can Do Arithmetic with the Right Embeddings__ \\
