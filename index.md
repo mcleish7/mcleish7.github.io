@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About Me 
-I am Sean McLeish, a third year Computer Science PhD student at the University of Maryland advised by [Tom Goldstein](https://www.cs.umd.edu/~tomg/). I graduated from the University of Warwick in 2023 with a first class BSc (Hons) in Discrete Mathematics. My research currently focuses on algorithmic reasoning and language modelling.
+I am Sean McLeish, a third year Computer Science PhD candidate at the University of Maryland advised by [Tom Goldstein](https://www.cs.umd.edu/~tomg/). I graduated from the University of Warwick in 2023 with a first class BSc (Hons) in Discrete Mathematics. My research currently focuses on algorithmic reasoning and language modelling.
 
 ## Selected Publications \[[Full List](https://scholar.google.com/citations?user=kFzOTY8AAAAJ&hl=en)\]
 
