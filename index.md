@@ -43,6 +43,7 @@ _ReScience Volume 9 Issue 2, Journal to Conference Track NeurIPS 2023_ \\
 [paper](https://openreview.net/pdf?id=WaZB4pUVTi) | [code](https://github.com/mcleish7/MLRC-deep-thinking)
 
 ## Experience
+- **Summer 2026**, Machine Learning Research Intern, Tilde Research
 - **Summer 2025**, Applied Research Intern, Capital One
 - **Spring 2025**, Spring into Quant Finance, G Research
 - **Summer 2022**, Summer Intern, Goldman Sachs
@@ -54,7 +55,7 @@ _ReScience Volume 9 Issue 2, Journal to Conference Track NeurIPS 2023_ \\
 - UKMT Gold Award Winner (2019)
 
 ## Services
-Reviewer: NeurIPS, ICLR
+Reviewer: NeurIPS, ICLR, ICML, COLM
 
 ## Contacts
 smcleish [ at ] umd [dot] edu
