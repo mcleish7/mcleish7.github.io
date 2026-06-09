@@ -7,6 +7,11 @@ I am Sean McLeish, a third year Computer Science PhD candidate at the University
 
 ## Selected Publications \[[Full List](https://scholar.google.com/citations?user=kFzOTY8AAAAJ&hl=en)\]
 
+__End-to-End Context Compression at Scale__ \\
+Ang Li\*, <b>Sean McLeish\*</b>, Haozhe Chen\*, Nimit Kalra, Zaiqian Chen, Artem Gazizov, Venkata Anoop Suhas Kumar Morisetty, Bhavya Kailkhura, Harshitha Menon, Zhuang Liu, Brian R. Bartoldson, Tom Goldstein, Sanae Lotfi, Micah Goldblum, Pavel Izmailov \\
+_ICML 2026 Workshop on Structured Probabilistic Inference & Generative Modeling_ \\
+[paper](https://arxiv.org/abs/2606.09659) | [code](https://github.com/LeonLixyz/LCLM) | [Hugging Face](https://huggingface.co/latent-context)
+
 __Teaching Pretrained Language Models to Think Deeper with Retrofitted Recurrence__ \\
 <b>Sean McLeish</b>, Ang Li, John Kirchenbauer, Dayal Singh Kalra, Brian R. Bartoldson, Bhavya Kailkhura, Avi Schwarzschild, Jonas Geiping, Tom Goldstein and Micah Goldblum \\
 _NeurIPS 2025 Workshop on Efficient Reasoning_ \\
