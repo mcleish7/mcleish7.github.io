@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About Me 
-I am Sean McLeish, a fourth year Computer Science PhD candidate at the University of Maryland advised by [Tom Goldstein](https://www.cs.umd.edu/~tomg/). I graduated from the University of Warwick in 2023 with a first class BSc (Hons) in Discrete Mathematics. My research currently focuses on algorithmic reasoning and language modelling.
+I am Sean McLeish, a fourth year Computer Science PhD candidate at the University of Maryland advised by [Tom Goldstein](https://www.cs.umd.edu/~tomg/). This fall I will be a visiting researcher at EPFL with [Antoine Bosselut](https://atcbosselut.github.io/). I graduated from the University of Warwick in 2023 with a first class BSc (Hons) in Discrete Mathematics. My research currently focuses on algorithmic reasoning and language modelling.
 
 ## Selected Publications \[[Full List](https://scholar.google.com/citations?user=kFzOTY8AAAAJ&hl=en)\]
 
@@ -55,7 +55,7 @@ _ReScience Volume 9 Issue 2, Journal to Conference Track NeurIPS 2023_ \\
 - **Spring 2021**, Spring Intern, Goldman Sachs
 
 ## Achievements 
-- University of Maryland Dean’s Fellowship (2023)
+- University of Maryland Dean's Fellowship (2023)
 - Department prize for the best overall graduating BSc student in Discrete Mathematics (2023)
 - UKMT Gold Award Winner (2019)
 
